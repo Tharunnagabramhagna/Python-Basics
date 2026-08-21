@@ -1,30 +1,30 @@
 # Bitwise operators
 
-# 1)AND bitwise operation
+# 1) AND bitwise operation
 
 a = 2
 b = 3
 print(a & b)  # output=2
 
 
-# 2)OR bitwise operation
+# 2) OR bitwise operation
 
 print(a | b)  # output=3
 print(type(a | b))
 
-# 3)XOR bitwise operation
+# 3) XOR bitwise operation
 
 print(a ^ b)  # output=1
 
-# 4)NOT bitwise operation
+# 4) NOT bitwise operation
 
 print(~a)  # ouput=-3
 
-# 5)Bitwise Left Shift(<<)
+# 5) Bitwise Left Shift(<<)
 
 print(2 << 2)  # output=8
 
-# 6)Bitwise Right Shift(>>)
+# 6) Bitwise Right Shift(>>)
 
 print(2 >> 1)  # output=1
 print(32 >> 2)  # ouput=8
