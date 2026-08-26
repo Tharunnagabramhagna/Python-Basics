@@ -1,4 +1,4 @@
-# x=input("Enter the string:") #eg:-tharun== tthhaarruunn
+# x=input("Enter the string:") # e.g. tharun == tthhaarruunn
 # for t in x:
 #     print(t+t,end="")
 x = input('Enter your name:')
